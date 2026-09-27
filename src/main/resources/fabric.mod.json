@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "combat-hitboxes",
+  "version": "${version}",
+  "name": "Combat Hitboxes+",
+  "description": "An upgraded take on the original Combat Hitboxes with new PvP features.",
+  "authors": [
+    "TrueWulf"
+  ],
+  "credits": "Based on the original Combat Hitboxes by Sootysplash",
+  "contact": {
+    "sources": "https://github.com/TrueWulf/combat-hitboxes-plus"
+  },
+  "license": "Apache-2.0",
+  "icon": "assets/combat-hitboxes/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.truewulf.box.Main"
+    ],
+    "modmenu": [
+      "me.truewulf.box.ModMenu"
+    ]
+  },
+  "mixins": [
+    "combat-hitboxes.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "${mc_compat}",
+    "java": ">=${java}",
+    "fabric-api": "*",
+    "cloth-config": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}
