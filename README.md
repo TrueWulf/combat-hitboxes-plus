@@ -11,7 +11,7 @@ with owner colors and a weapon filter — on top of the classic hitbox colors.
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/truewulf/goal?g=0)
 [![Minecraft](https://img.shields.io/badge/mc-1.21–26.3-green.svg?style=for-the-badge)](https://modrinth.com/mod/combat-hitboxes-plus)
 
-[GitHub](https://github.com/TrueWulf/combat-hitboxes-plus) · [Issues](https://github.com/TrueWulf/combat-hitboxes-plus/issues) · [Modrinth](https://modrinth.com/mod/combat-hitboxes-plus)
+[Modrinth](https://modrinth.com/user/TrueWolf)
 
 </div>
 
