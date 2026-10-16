@@ -39,6 +39,4 @@ Everything is configurable in Mod Menu: 4 clean tabs, no clutter.
 ## Credits
 
 - [sootysplash](https://github.com/sootysplash) — original Combat Hitboxes
-- Maintained by [TrueWulf](https://github.com/TrueWulf)
-
-License: [Apache-2.0](LICENSE)
+- Maintained by [TrueWulf](https://github.com/
