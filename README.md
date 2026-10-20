@@ -31,7 +31,7 @@ Everything is configurable in Mod Menu: 4 clean tabs, no clutter.
 ## Install
 
 1. Install [Fabric Loader](https://fabricmc.net/use/)
-2. Drop the jar for your Minecraft version into `mods` together with
+2. Drop the jar for your Minecraft version into `/mods` together with
    [Fabric API](https://modrinth.com/mod/fabric-api) and
    [Cloth Config](https://modrinth.com/mod/cloth-config)
 3. Open Mod Menu → Combat Hitboxes+ → Config
